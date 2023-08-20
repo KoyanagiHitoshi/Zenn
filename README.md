@@ -1,4 +1,9 @@
 # Zenn
 
-This repository publishes the code listed in AtCoderの問題を分類しました.
+This repository publishes markdowns at [Zenn](https://zenn.dev/koyanagihitoshi?tab=books).
 
+## Clone
+
+```bash
+$ git clone https://github.com/KoyanagiHitoshi/Zenn.git
+```
